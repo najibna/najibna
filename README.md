@@ -46,7 +46,7 @@ Here, you'll find projects I’ve worked on inside and outside of school since t
 - Applied modern web development standards for clean UI and smooth UX.  
 - Optimized for mobile and desktop viewing with intuitive navigation.
 
-🔗 [View Repository](#Boat-Navigation)
+🔗 *[Demo coming soon]*
 
 ---
 
