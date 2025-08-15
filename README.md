@@ -12,7 +12,7 @@ Here, you'll find projects I’ve worked on inside and outside of school since t
 *June 2023 – Present*  
 **Tech:** C#, Python (SikuliX), QA Automation  
 - Fully automated QA testing processes for VB6-based applications, reducing manual testing time by ~50%.  
-- Designed and implemented C# solutions, fixing critical issues to improve stability and performance.  
+-  Worked with C# solutions, fixing critical bugs to improve stability and performance.  
 - Created internal documentation to guide future QA team members in running/debugging automated test scripts.  
 
 🔗 *[Private repo – work done under NDA]*
