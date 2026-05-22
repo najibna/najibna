@@ -1,92 +1,76 @@
-# ⚡ AI + Automation Software Engineer 🚀
+# ⚡ AI + Full-Stack Software Engineer
 
-I build **AI tools**, **automation systems**, and **full-stack apps** that make messy work faster, simpler, and easier to use.
+I build **AI tools**, **full-stack apps**, and **automation systems** that make complex work simple.
 
-### 🧰 Main Stack  
-🐍 **Python** · ⚛️ **React** · 🧠 **LLMs** · ☁️ **Azure** · 🧩 **C++** · 🛠️ **C#** · 🤖 **Automation**
-
----
-
-# 🚀 Experience
-
-## 🏗️ Broccolini — Software Engineer  
-### 🧠 AI tools for construction, finance, HR, and operations
-
-✨ Built **4+ full-stack AI tools**  
-📄 Automated document search, invoice checks, reports, and meeting summaries  
-🧠 Turned **150+ AI ideas** into real working prototypes  
-🤖 Used **ChatGPT + Claude** inside Python workflows  
-⚙️ Built tools that helped business teams move faster  
+**Python · React · FastAPI · Azure · LLMs · SQL · Automation**
 
 ---
 
-## 🛰️ MDA Space — Software Engineer  
-### 🧪 Satellite software validation + automated testing
+## 🚀 Experience
 
-🐍 Built **20+ Python test scenarios**  
-🧩 Added **C++ validation framework endpoints**  
-🔍 Debugged regressions with logs, pipelines, Jira, and test results  
-✅ Helped improve software release quality  
-🛰️ Worked on satellite telecom software workflows  
+### 🏗️ Broccolini — Software Engineer  
+**AI tools for construction, finance, HR, and operations**
 
----
-
-## 🧪 Novatek International — Software Engineer  
-### ⚙️ QA automation for enterprise Windows applications
-
-🐍 Automated **50+ QA scenarios** with Python  
-⏱️ Cut validation time from **3 days to ~2 hours**  
-🛠️ Debugged Windows apps, scripts, logs, and configs  
-📘 Wrote SOPs so QA teams could run automation independently  
-⚡ Built reliable automation for repetitive testing workflows  
+- Built **4+ full-stack AI tools**
+- Created tools for document search, invoice checks, reports, and meeting summaries
+- Turned **150+ AI ideas** into real prototypes
+- Used **ChatGPT + Claude** in Python workflows
 
 ---
 
-# 🧠 Projects
+### 🛰️ MDA Space — Software Engineer  
+**Satellite software validation + backend automation**
 
-## ⚖️ [CanLawAI — AI Legal Search](https://github.com/najibna/canlawai)  
-### 📚 React · Python · PDF Parsing · AI Search
-
-🔎 Searches across **1,000+ pages of Canadian law**  
-⚖️ Answers legal questions with structured citations  
-🧠 Turns long legal PDFs into searchable AI knowledge  
-
----
-
-## ⛏️ [OR Royalties Extractor](https://github.com/najibna/OR-Royalties-Extractor)  
-### 📰 FastAPI · React · PostgreSQL · Web Scraping · OpenRouter
-
-🌐 Scrapes public mining company updates  
-📊 Extracts investment fields with AI  
-🗄️ Stores results in a structured database  
-🖥️ Displays everything in a clean web dashboard  
+- Built **20+ Python test scenarios**
+- Added **C++ validation framework endpoints**
+- Debugged issues using logs, pipelines, Jira, and test results
+- Helped improve software release quality
 
 ---
 
-## 📊 [OR Royalties Chatbot](https://github.com/najibna/OR-Royalties-Chatbot)  
-### 📄 Streamlit · Python · PDF Extraction · OpenRouter
+### 🧪 Novatek International — Software Engineer  
+**Python automation for enterprise Windows apps**
 
-📎 Uploads investment PDFs  
-🧠 Extracts and analyzes document text  
-💬 Generates investor-focused summaries  
-⚡ Makes long technical reports easier to understand  
-
----
-
-# 🛠️ Tech Stack
-
-### 🐍 Languages  
-Python · Java · C++ · C · JavaScript · TypeScript · C# · Bash
-
-### ⚙️ Tools  
-React · FastAPI · Streamlit · Azure · Git · Linux · SQL · PostgreSQL · REST APIs · SikuliX · pytest-bdd
-
-### 🎯 Focus  
-🧠 AI Apps · 🤖 Automation · ⚛️ Full-Stack Development · 🧪 Software Validation
+- Automated **50+ QA scenarios**
+- Reduced validation time from **3 days to ~2 hours**
+- Debugged Windows app, script, and configuration issues
+- Wrote guides so QA teams could run automation independently
 
 ---
 
-# 📫 Contact
+## 🧠 AI + Full-Stack Projects
+
+### ⚖️ [CanLawAI — AI Legal Search](https://github.com/najibna/canlawai)  
+**React · Python · AI Search · PDF Parsing**
+
+AI legal assistant that searches **1,000+ pages of Canadian law** and gives answers with structured citations.
+
+---
+
+### ⛏️ [OR Royalties Extractor](https://github.com/najibna/OR-Royalties-Extractor)  
+**React · FastAPI · PostgreSQL · Web Scraping · OpenRouter**
+
+Full-stack AI pipeline that collects mining company updates, extracts key investment data, and displays results in a dashboard.
+
+---
+
+### 📊 [OR Royalties Chatbot](https://github.com/najibna/OR-Royalties-Chatbot)  
+**Python · Streamlit · PDF Extraction · OpenRouter**
+
+AI document analyzer that reads investment PDFs and generates clear investor-focused summaries.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI:** LLM APIs · OpenRouter · ChatGPT · Claude · PDF Parsing  
+**Frontend:** React · JavaScript · TypeScript · HTML · CSS  
+**Backend:** Python · FastAPI · SQL · PostgreSQL · REST APIs  
+**Tools:** Azure · Git · Linux · SikuliX · pytest-bdd  
+
+---
+
+## 📫 Contact
 
 🔗 [LinkedIn](https://www.linkedin.com/in/najib-n)  
 💻 [GitHub](https://github.com/najibna)  
