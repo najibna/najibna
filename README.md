@@ -1,66 +1,83 @@
-# 👋 Hi, I'm Najib Najib
+# 👋 Najib Najib
 
-Welcome to my GitHub portfolio!  
-I’m a Software Engineer who's passionate about **full-stack development**, **AI applications**, and **building impactful solutions**.  
-Here, you'll find projects I’ve worked on inside and outside of school since the start of my program.
+Software Engineer building **AI tools, automation systems, and full-stack applications**.
 
----
-
-## 🚀 Experience and Projects
-
-### **Novatek International – Software Development Intern**  
-*June 2023 – Present*  
-**Tech:** C#, Python (SikuliX), QA Automation  
-- Fully automated QA testing processes for VB6-based applications, reducing manual testing time by ~50%.  
--  Worked with C# solutions, fixing critical bugs to improve stability and performance.  
-- Created internal documentation to guide future QA team members in running/debugging automated test scripts.  
-
-🔗 *[Private repo – work done under NDA]*
+I’ve worked across construction tech, satellite software validation, QA automation, and AI search tools — mostly with **Python, React, C++, C#, Azure, and LLM APIs**.
 
 ---
 
-### **BibleGPT – AI Spiritual Q&A**  
-**Tech:** Python (FastAPI), OpenAI API, React  
-- Built an AI application that answers spiritual and biblical questions with contextual Bible-based responses.  
-- Integrated OpenAI API for natural language understanding and retrieval.  
-- Developed the **frontend in React** for a clean, interactive UI and **backend in Python** for API integration.  
-- Designed prompt strategies to ensure doctrinally consistent answers.  
+## 🚀 Experience
 
-🔗 *[Demo coming soon]*
+### **Broccolini — Software Engineer**
+*Apr. 2026 – Aug. 2026*  
+**Python · React · Azure · LLMs**
 
----
+Built internal AI tools for document search, invoice checks, reporting, and meeting summaries.
 
-### **NP Compete Hackathon**  
-**Tech:** Python  
-- Competed with numerous teams to solve coding challenges in **5 hours**.  
-- Collaborated with 2 teammates to solve complex problems under tight deadlines.  
-- Demonstrated problem-solving, leadership, and teamwork under high pressure.
-
-🔗 *[Private repo – challenge material not public]*
+- Shipped **4+ full-stack AI tools** used across construction, finance, HR, and operations.
+- Turned **150+ AI use cases** into practical software ideas and working prototypes.
+- Integrated ChatGPT and Claude into Python workflows for document analysis and automation.
 
 ---
 
-### **Personal Website**  
-**Tech:** HTML5, CSS3  
-- Developed a **fully responsive**, cross-browser compatible personal portfolio site.  
-- Applied modern web development standards for clean UI and smooth UX.  
-- Optimized for mobile and desktop viewing with intuitive navigation.
+### **MDA Space — Software Engineer**
+*Jan. 2026 – Apr. 2026*  
+**Python · C++ · pytest-bdd · Linux · GitLab · Jira**
 
-🔗 *[Demo coming soon]*
+Worked on satellite software validation and automated testing.
 
----
-
-## 🛠 Skills
-- **Languages:** Python, Java, C#, SQL, HTML5, CSS3, JavaScript  
-- **Frameworks & Tools:** React, FastAPI, Git, Visual Studio, VS Code, IntelliJ  
-- **Domains:** Full-Stack Development, QA Automation, AI Applications, Web Development
+- Built **20+ Python test scenarios** for satellite telecom workflows.
+- Added **C++ framework endpoints** to expand validation coverage.
+- Debugged regression failures using logs, test results, Jira records, and pipeline traces.
 
 ---
 
-## 📫 Connect with Me
+### **Novatek International — Software Engineer**
+*Jun. 2023 – Dec. 2025*  
+**Python · SikuliX · C# · QA Automation**
+
+Built automation for enterprise Windows applications.
+
+- Automated **50+ QA scenarios** with Python.
+- Reduced validation time from **3 days to around 2 hours**.
+- Debugged Windows app issues, Python scripts, logs, and configuration failures.
+- Wrote SOPs so QA teams could run and maintain automation independently.
+
+---
+
+## 🧠 Projects
+
+### **CanLawAI — AI Legal Search**
+**React · Python · PDF Parsing**
+
+Built a full-stack AI legal assistant that answers questions across **1,000+ pages of Canadian law** with structured citations.
+
+---
+
+### **BibleGPT — AI Spiritual Q&A**
+**React · Python · OpenAI API**
+
+Built an AI app for Bible-based question answering with a React frontend and Python backend.
+
+---
+
+### **NP Compete Hackathon**
+**Python**
+
+Won **3rd place** by solving coding challenges under a strict time limit with a small team.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, C++, C, JavaScript, TypeScript, C#, Ruby, Bash  
+**Tools:** React, Azure, Git, Linux, SQL, REST APIs, SikuliX, pytest-bdd  
+**Focus:** AI Applications, Full-Stack Development, Automation, Software Validation
+
+---
+
+## 📫 Contact
+
 - **LinkedIn:** [linkedin.com/in/najib-n](https://www.linkedin.com/in/najib-n)  
 - **GitHub:** [github.com/najibna](https://github.com/najibna)  
 - **Email:** n.najib@live.com
-
----
-⭐ *Feel free to explore my projects and reach out for collaboration opportunities!*
