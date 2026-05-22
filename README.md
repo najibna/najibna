@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Najib Najib
 
 Welcome to my GitHub portfolio!  
-I’m a Software Engineering student at McGill University passionate about **full-stack development**, **AI applications**, and **building impactful solutions**.  
+I’m a Software Engineer who's passionate about **full-stack development**, **AI applications**, and **building impactful solutions**.  
 Here, you'll find projects I’ve worked on inside and outside of school since the start of my program.
 
 ---
