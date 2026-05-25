@@ -25,32 +25,20 @@
 ## 🚀 Experience
 
 ### 🏗️ [Broccolini](https://broccolini.com) — Software Engineer  
-**AI Tools · Full-Stack Development · Business Automation**
+**AI Tools · Full-Stack Development**
 
-- Shipped **4+ full-stack AI tools** using **Python, React, Azure, and LLM APIs**
-- Built tools for **document search, invoice checks, reports, and meeting summaries**
-- Turned **150+ AI use cases** into practical prototypes and working tools
-- Integrated **ChatGPT and Claude** into Python workflows for document automation
 
 ---
 
 ### 🛰️ [MDA Space](https://mda.space) — Software Engineer  
-**Satellite Software · Python Automation · C++ Validation**
+**Satellite Software · Python · C++**
 
-- Built **20+ Python test scenarios** for satellite telecom workflows
-- Added **C++ validation framework endpoints**
-- Debugged regressions using **logs, pipelines, Jira, and test results**
-- Supported software release quality across engineering teams
 
 ---
 
 ### 🧪 [Novatek International](https://ntint.com) — Software Engineer  
-**QA Automation · Python · Enterprise Windows Apps**
+**C# · Python**
 
-- Automated **50+ QA scenarios** using Python
-- Reduced validation time from **3 days → ~2 hours**
-- Debugged issues across **Windows apps, Python scripts, logs, and configs**
-- Wrote guides so QA teams could run and maintain automation independently
 
 ---
 
