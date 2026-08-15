@@ -1,10 +1,10 @@
 <div align="center">
 
-# ⚡ AI + Full-Stack Software Engineer
+# ⚡ Software Engineer
 
-### I build AI tools that turn messy documents, workflows, and business problems into fast, usable software.
+### Building high-performance software, intelligent systems, and developer tools.
 
-**Python · React · FastAPI · Azure · LLM APIs · SQL · Automation**
+**C++ · Python · Systems · AI/ML · Distributed Computing · Performance Optimization**
 
 [LinkedIn](https://www.linkedin.com/in/najib-n) · [Website](https://najibnajib.com) · [Email](mailto:n.najib@live.com)
 
@@ -14,73 +14,100 @@
 
 ## 🔥 Snapshot
 
-- 🧠 Built **4+ full-stack AI tools** for real business workflows  
-- ⚡ Reduced enterprise validation time from **3 days → ~2 hours**  
-- 📄 Built AI systems for **document search, PDF analysis, legal search, invoice checks, and meeting summaries**  
-- 🏗️ Worked across **construction, finance, HR, operations, satellite software, and QA automation**  
-- 🛠️ Strong in **Python backends, React frontends, LLM APIs, automation, and software validation**
+* 💻 Built software across **systems, AI/ML, automation, and data-intensive applications**
+* ⚡ Worked on **performance-critical and distributed systems**
+* 🧠 Experience with **C++, Python, parallel computing, AI infrastructure, and compiler technologies**
+* 🛠️ Built tools for **data processing, developer workflows, intelligent applications, and software validation**
+* 🚀 Interested in **high-performance software, infrastructure, AI systems, and compilers**
 
 ---
 
 ## 🚀 Experience
 
-### 🏗️ [Broccolini](https://broccolini.com) — Software Engineer  
-**AI Tools · Full-Stack Development**
+### [Autodesk](https://www.autodesk.com) — Software Engineer
 
-
----
-
-### 🛰️ [MDA Space](https://mda.space) — Software Engineer  
-**Satellite Software · Python · C++**
-
+**C++ · Python · Systems · Performance**
 
 ---
 
-### 🧪 [Novatek International](https://ntint.com) — Software Engineer  
-**C# · Python**
+### [Broccolini](https://broccolini.com) — Software Engineer
 
-
----
-
-## 🧠 Featured AI Projects
-
-### ⚖️ [CanLawAI](https://github.com/najibna/canlawai)  
-**AI Legal Search · React · Python · PDF Parsing**
-
-Searches across **1,000+ pages of Canadian law** and returns answers with structured citations.
+**C++ · Python · Data Systems · AI/ML**
 
 ---
 
-### ⛏️ [OR Royalties Extractor](https://github.com/najibna/OR-Royalties-Extractor)  
-**AI Data Pipeline · React · FastAPI · PostgreSQL · OpenRouter**
+### [MDA Space](https://mda.space) — Software Engineer
 
-Collects mining company updates, extracts key investment data, and displays results in a dashboard.
+**C++ · Python · Systems Software**
 
 ---
 
-### 📊 [OR Royalties Chatbot](https://github.com/najibna/OR-Royalties-Chatbot)  
-**AI Document Analyzer · Python · Streamlit · PDF Extraction**
+### [Novatek International](https://ntint.com) — Software Engineer
 
-Reads investment PDFs and generates clear investor-focused summaries.
+**C++ · C# · Python · Automation**
+
+---
+
+## 🧠 Featured Projects
+
+### ⚡ [Quant Platform](https://github.com/najibna/Quant-Platform)
+
+**C++ · Python · SQL · Distributed Systems**
+
+Built a quantitative research platform for **data processing, strategy testing, statistical analysis, and performance benchmarking**.
+
+---
+
+### 🧠 [MLIR](https://github.com/najibna/MLIR)
+
+**C++ · MLIR · CUDA · Python**
+
+Built compiler and runtime components focused on **graph optimization, lowering, parallel execution, and inference performance**.
+
+---
+
+### ⚖️ [CanLawAI](https://github.com/najibna/canlawai)
+
+**React · Python · AI · Information Retrieval**
+
+Built a search and analysis platform for navigating large collections of Canadian legal information.
+
+---
+
+### ⛏️ [OR Royalties Extractor](https://github.com/najibna/OR-Royalties-Extractor)
+
+**React · FastAPI · PostgreSQL · Python**
+
+Built a data-processing platform that collects, structures, and analyzes information from company updates.
+
+---
+
+### 📊 [OR Royalties Chatbot](https://github.com/najibna/OR-Royalties-Chatbot)
+
+**Python · Data Processing · AI**
+
+Built a document analysis tool for extracting and summarizing information from financial documents.
 
 ---
 
 ## 🛠️ Core Stack
 
-| Area | Tools |
-|---|---|
-| 🧠 **AI** | LLM APIs · OpenRouter · ChatGPT · Claude · PDF Parsing |
-| ⚛️ **Frontend** | React · JavaScript · TypeScript · HTML · CSS |
-| 🐍 **Backend** | Python · FastAPI · SQL · PostgreSQL · REST APIs |
-| 🤖 **Automation** | SikuliX · pytest-bdd · QA Automation · Workflow Automation |
-| ☁️ **Tools** | Azure · Git · Linux · Jira · Jenkins |
+| Area            | Tools                                                                 |
+| --------------- | --------------------------------------------------------------------- |
+| **Languages**   | C++ · Python · C · SQL · Bash · Java                                  |
+| **Systems**     | Linux · Multithreading · Distributed Systems · Networking · Databases |
+| **Performance** | Profiling · Optimization · Parallel Computing · Caching               |
+| **AI / ML**     | MLIR · CUDA · PyTorch · LLM APIs · Quantization                       |
+| **Software**    | React · FastAPI · REST APIs · PostgreSQL                              |
+| **Tools**       | Git · Azure · Jenkins · Jira                                          |
 
 ---
 
-## 🎯 What I Build Best
+## 🎯 What I Work On
 
-> **AI tools for real business workflows.**  
-> I turn unstructured information — PDFs, reports, transcripts, notes, invoices, and logs — into searchable, structured, useful software.
+> **High-performance software, distributed systems, AI infrastructure, and developer tools.**
+
+I enjoy building software where **performance, scalability, reliability, and clean engineering** matter.
 
 ---
 
