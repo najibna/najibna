@@ -24,10 +24,8 @@
 
 <div align="center">
 
-![4 Companies](https://img.shields.io/badge/🏢_4_Companies-5E8E3E?style=for-the-badge)
-![Faster](https://img.shields.io/badge/⏱️_3_days_→_2_hours-success?style=for-the-badge)
-![Scenarios](https://img.shields.io/badge/🧪_70+_automated_scenarios-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/🤖_4+_AI_tools_shipped-8A2BE2?style=for-the-badge)
+![2 Companies](https://img.shields.io/badge/🏢_Autodesk_·_MDA_Space-5E8E3E?style=for-the-badge)
+![Scenarios](https://img.shields.io/badge/🧪_20+_satellite_test_scenarios-blue?style=for-the-badge)
 
 </div>
 
@@ -39,17 +37,6 @@
 
 ---
 
-### 🟧 [Broccolini](https://broccolini.com) — Software Engineer
-*Apr. 2026 – Aug. 2026* · **`Python`** · **`React`** · **`Azure`** · **`LLMs`**
-
-🤖 Built internal AI tools for document search, invoice checks, reporting, and meeting summaries.
-
-- 🚢 Shipped **4+ full-stack AI tools** used across construction, finance, HR, and operations
-- 💡 Turned **150+ AI use cases** into practical software ideas and working prototypes
-- 🔗 Integrated **ChatGPT and Claude** into Python workflows for document analysis and automation
-
----
-
 ### 🛰️ [MDA Space](https://mda.space) — Software Engineer
 *Jan. 2026 – Apr. 2026* · **`Python`** · **`C++`** · **`pytest-bdd`** · **`Linux`** · **`GitLab`** · **`Jira`**
 
@@ -58,18 +45,6 @@
 - 🧪 Built **20+ Python test scenarios** for satellite telecom workflows
 - 🔧 Added **C++ framework endpoints** to expand validation coverage
 - 🐞 Debugged regression failures using logs, test results, Jira records, and pipeline traces
-
----
-
-### 🖥️ [Novatek International](https://ntint.com) — Software Engineer
-*Jun. 2023 – Dec. 2025* · **`Python`** · **`SikuliX`** · **`C#`** · **`QA Automation`**
-
-🤖 Built automation for enterprise Windows applications.
-
-- ⚡ Automated **50+ QA scenarios** with Python
-- ⏱️ Cut validation time from **3 days to around 2 hours**
-- 🪲 Debugged Windows app issues, Python scripts, logs, and configuration failures
-- 📘 Wrote SOPs so QA teams could run and maintain automation independently
 
 ---
 
