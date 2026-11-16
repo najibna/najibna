@@ -30,21 +30,9 @@
 
 ---
 
-### [Broccolini](https://broccolini.com) — Software Engineer
-
-**C++ · Python · Data Systems · AI/ML**
-
----
-
 ### [MDA Space](https://mda.space) — Software Engineer
 
 **C++ · Python · Systems Software**
-
----
-
-### [Novatek International](https://ntint.com) — Software Engineer
-
-**C++ · C# · Python · Automation**
 
 ---
 
