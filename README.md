@@ -20,6 +20,59 @@
 
 ---
 
+## 🚀 Professional Experience
+
+<div align="center">
+
+![4 Companies](https://img.shields.io/badge/🏢_4_Companies-5E8E3E?style=for-the-badge)
+![Faster](https://img.shields.io/badge/⏱️_3_days_→_2_hours-success?style=for-the-badge)
+![Scenarios](https://img.shields.io/badge/🧪_70+_automated_scenarios-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/🤖_4+_AI_tools_shipped-8A2BE2?style=for-the-badge)
+
+</div>
+
+### 🟦 [Autodesk](https://www.autodesk.com) — Software Engineer
+
+**`C++`** · **`Python`** · **`Systems`** · **`Performance`**
+
+⚙️ Building performance-critical software in C++ and Python.
+
+---
+
+### 🟧 [Broccolini](https://broccolini.com) — Software Engineer
+*Apr. 2026 – Aug. 2026* · **`Python`** · **`React`** · **`Azure`** · **`LLMs`**
+
+🤖 Built internal AI tools for document search, invoice checks, reporting, and meeting summaries.
+
+- 🚢 Shipped **4+ full-stack AI tools** used across construction, finance, HR, and operations
+- 💡 Turned **150+ AI use cases** into practical software ideas and working prototypes
+- 🔗 Integrated **ChatGPT and Claude** into Python workflows for document analysis and automation
+
+---
+
+### 🛰️ [MDA Space](https://mda.space) — Software Engineer
+*Jan. 2026 – Apr. 2026* · **`Python`** · **`C++`** · **`pytest-bdd`** · **`Linux`** · **`GitLab`** · **`Jira`**
+
+📡 Worked on satellite software validation and automated testing.
+
+- 🧪 Built **20+ Python test scenarios** for satellite telecom workflows
+- 🔧 Added **C++ framework endpoints** to expand validation coverage
+- 🐞 Debugged regression failures using logs, test results, Jira records, and pipeline traces
+
+---
+
+### 🖥️ [Novatek International](https://ntint.com) — Software Engineer
+*Jun. 2023 – Dec. 2025* · **`Python`** · **`SikuliX`** · **`C#`** · **`QA Automation`**
+
+🤖 Built automation for enterprise Windows applications.
+
+- ⚡ Automated **50+ QA scenarios** with Python
+- ⏱️ Cut validation time from **3 days to around 2 hours**
+- 🪲 Debugged Windows app issues, Python scripts, logs, and configuration failures
+- 📘 Wrote SOPs so QA teams could run and maintain automation independently
+
+---
+
 ## 🛍️ Shopify Open Source
 
 <img align="right" width="120" src="https://cdn.simpleicons.org/shopify/96BF48" alt="Shopify"/>
@@ -62,23 +115,8 @@
 | 💻 | Built software across **systems, AI/ML, automation, and data-intensive applications** |
 | ⚡ | Worked on **performance-critical and distributed systems** |
 | 🧠 | **C++, Python, parallel computing, AI infrastructure, compilers** |
-| 🛠️ | Tools for **data processing, developer workflows, intelligent apps, software validation** |
 | 🛍️ | **Open source** with Shopify, Autodesk, OpenVDB, OpenPBR, Open OnDemand |
 | 🚀 | Interested in **high-performance software, infrastructure, AI systems, compilers** |
-
----
-
-## 🚀 Experience
-
-### [Autodesk](https://www.autodesk.com) — Software Engineer
-
-**C++ · Python · Systems · Performance**
-
----
-
-### [MDA Space](https://mda.space) — Software Engineer
-
-**C++ · Python · Systems Software**
 
 ---
 
@@ -104,7 +142,7 @@ Built compiler and runtime components focused on **graph optimization, lowering,
 
 **React · Python · AI · Information Retrieval**
 
-Built a search and analysis platform for navigating large collections of Canadian legal information.
+Built a full-stack AI legal assistant that answers questions across **1,000+ pages of Canadian law** with structured citations.
 
 ---
 
@@ -121,6 +159,14 @@ Built a data-processing platform that collects, structures, and analyzes informa
 **Python · Data Processing · AI**
 
 Built a document analysis tool for extracting and summarizing information from financial documents.
+
+---
+
+### 🏆 NP Compete Hackathon
+
+**Python**
+
+Won **3rd place** solving coding challenges under a strict time limit with a small team.
 
 ---
 
