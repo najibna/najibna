@@ -18,6 +18,7 @@
 * ⚡ Worked on **performance-critical and distributed systems**
 * 🧠 Experience with **C++, Python, parallel computing, AI infrastructure, and compiler technologies**
 * 🛠️ Built tools for **data processing, developer workflows, intelligent applications, and software validation**
+* 🌍 Open source contributor to **Shopify, Autodesk, OpenVDB, OpenPBR, and Open OnDemand** projects
 * 🚀 Interested in **high-performance software, infrastructure, AI systems, and compilers**
 
 ---
@@ -75,6 +76,29 @@ Built a data-processing platform that collects, structures, and analyzes informa
 **Python · Data Processing · AI**
 
 Built a document analysis tool for extracting and summarizing information from financial documents.
+
+---
+
+## 🌍 Open Source
+
+Contributing fixes and features to projects across graphics, developer tooling, and HPC.
+
+### ✅ Merged
+
+| Project | Contribution |
+| ------- | ------------ |
+| [Shopify/rbi](https://github.com/Shopify/rbi) | [Add trailing commas to multiline RBS parameters](https://github.com/Shopify/rbi/pull/664) |
+| [Autodesk/maya-hydra](https://github.com/Autodesk/maya-hydra) | [Fix typos in build documentation](https://github.com/Autodesk/maya-hydra/pull/528) |
+| [OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) | [Capitalize equation references](https://github.com/AcademySoftwareFoundation/OpenPBR/pull/315) |
+| [OSC/ood_core](https://github.com/OSC/ood_core) | [Fix LinuxHost username resolution](https://github.com/OSC/ood_core/pull/985) |
+
+### 🔄 In Review
+
+| Project | Contribution |
+| ------- | ------------ |
+| [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb) | [Fix PDAL package lookup on Windows](https://github.com/AcademySoftwareFoundation/openvdb/pull/2351) |
+| [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby) | [Remove oj dependency to restore JRuby support](https://github.com/Shopify/shopify-api-ruby/pull/1462) · [Expose request ID after token refresh](https://github.com/Shopify/shopify-api-ruby/pull/1463) |
+| [Shopify/worldwide](https://github.com/Shopify/worldwide) | [Add translations for new Rails time zones](https://github.com/Shopify/worldwide/pull/604) · [Treat address replacement values as literal data](https://github.com/Shopify/worldwide/pull/605) |
 
 ---
 
