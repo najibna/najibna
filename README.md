@@ -1,25 +1,70 @@
 <div align="center">
 
-# ⚡ Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:96BF48,100:5E8E3E&height=200&section=header&text=Najib%20N.&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descSize=22&descAlignY=58" width="100%" alt="Najib N. banner"/>
 
-### Building high-performance software, intelligent systems, and developer tools.
+<a href="https://github.com/najibna"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5E8E3E&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+high-performance+software;%F0%9F%9B%8D%EF%B8%8F+Open+source+contributor+%40+Shopify;%F0%9F%A7%A0+AI+systems+%26+compilers+(MLIR%2C+CUDA);%F0%9F%9B%A0%EF%B8%8F+Developer+tools+%26+distributed+systems" alt="Typing animation"/></a>
 
-**C++ · Python · Systems · AI/ML · Distributed Computing · Performance Optimization**
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/najib-n) · [Website](https://najibnajib.com) · [Email](mailto:n.najib@live.com)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_OSS-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najib-n)
+[![Website](https://img.shields.io/badge/Website-najibnajib.com-111?style=flat-square&logo=safari&logoColor=white)](https://najibnajib.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:n.najib@live.com)
 
 </div>
 
 ---
 
+## 🛍️ Shopify Open Source
+
+<img align="right" width="120" src="https://cdn.simpleicons.org/shopify/96BF48" alt="Shopify"/>
+
+> **Contributing to Shopify's open source ecosystem** across Ruby tooling, API clients, and internationalization.
+
+| | Project | What I did | Status |
+| :-: | ------- | ---------- | :----: |
+| 💎 | [**Shopify/rbi**](https://github.com/Shopify/rbi) | [Add trailing commas to multiline RBS parameters](https://github.com/Shopify/rbi/pull/664) | ✅ Merged |
+| 🔌 | [**shopify-api-ruby**](https://github.com/Shopify/shopify-api-ruby) | [Remove `oj` dependency to restore JRuby support](https://github.com/Shopify/shopify-api-ruby/pull/1462) | 🔄 In review |
+| 🔑 | [**shopify-api-ruby**](https://github.com/Shopify/shopify-api-ruby) | [Expose request ID after token refresh](https://github.com/Shopify/shopify-api-ruby/pull/1463) | 🔄 In review |
+| 🌐 | [**Shopify/worldwide**](https://github.com/Shopify/worldwide) | [Add translations for new Rails time zones](https://github.com/Shopify/worldwide/pull/604) | 🔄 In review |
+| 🛡️ | [**Shopify/worldwide**](https://github.com/Shopify/worldwide) | [Treat address replacement values as literal data](https://github.com/Shopify/worldwide/pull/605) | 🔄 In review |
+
+<div align="center">
+
+![Merged](https://img.shields.io/badge/✅_Merged-1-success?style=for-the-badge)
+![In Review](https://img.shields.io/badge/🔄_In_Review-4-yellow?style=for-the-badge)
+![Repos](https://img.shields.io/badge/📦_Shopify_Repos-3-96BF48?style=for-the-badge)
+
+</div>
+
+---
+
+## 🌍 More Open Source
+
+| | Project | Contribution | Status |
+| :-: | ------- | ------------ | :----: |
+| 🎬 | [**Autodesk/maya-hydra**](https://github.com/Autodesk/maya-hydra) | [Fix typos in build documentation](https://github.com/Autodesk/maya-hydra/pull/528) | ✅ Merged |
+| 🎨 | [**OpenPBR**](https://github.com/AcademySoftwareFoundation/OpenPBR) | [Capitalize equation references](https://github.com/AcademySoftwareFoundation/OpenPBR/pull/315) | ✅ Merged |
+| 🖥️ | [**OSC/ood_core**](https://github.com/OSC/ood_core) | [Fix LinuxHost username resolution](https://github.com/OSC/ood_core/pull/985) | ✅ Merged |
+| ☁️ | [**OpenVDB**](https://github.com/AcademySoftwareFoundation/openvdb) | [Fix PDAL package lookup on Windows](https://github.com/AcademySoftwareFoundation/openvdb/pull/2351) | 🔄 In review |
+
+---
+
 ## 🔥 Snapshot
 
-* 💻 Built software across **systems, AI/ML, automation, and data-intensive applications**
-* ⚡ Worked on **performance-critical and distributed systems**
-* 🧠 Experience with **C++, Python, parallel computing, AI infrastructure, and compiler technologies**
-* 🛠️ Built tools for **data processing, developer workflows, intelligent applications, and software validation**
-* 🌍 Open source contributor to **Shopify, Autodesk, OpenVDB, OpenPBR, and Open OnDemand** projects
-* 🚀 Interested in **high-performance software, infrastructure, AI systems, and compilers**
+| | |
+| :-: | --- |
+| 💻 | Built software across **systems, AI/ML, automation, and data-intensive applications** |
+| ⚡ | Worked on **performance-critical and distributed systems** |
+| 🧠 | **C++, Python, parallel computing, AI infrastructure, compilers** |
+| 🛠️ | Tools for **data processing, developer workflows, intelligent apps, software validation** |
+| 🛍️ | **Open source** with Shopify, Autodesk, OpenVDB, OpenPBR, Open OnDemand |
+| 🚀 | Interested in **high-performance software, infrastructure, AI systems, compilers** |
 
 ---
 
@@ -79,29 +124,6 @@ Built a document analysis tool for extracting and summarizing information from f
 
 ---
 
-## 🌍 Open Source
-
-Contributing fixes and features to projects across graphics, developer tooling, and HPC.
-
-### ✅ Merged
-
-| Project | Contribution |
-| ------- | ------------ |
-| [Shopify/rbi](https://github.com/Shopify/rbi) | [Add trailing commas to multiline RBS parameters](https://github.com/Shopify/rbi/pull/664) |
-| [Autodesk/maya-hydra](https://github.com/Autodesk/maya-hydra) | [Fix typos in build documentation](https://github.com/Autodesk/maya-hydra/pull/528) |
-| [OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) | [Capitalize equation references](https://github.com/AcademySoftwareFoundation/OpenPBR/pull/315) |
-| [OSC/ood_core](https://github.com/OSC/ood_core) | [Fix LinuxHost username resolution](https://github.com/OSC/ood_core/pull/985) |
-
-### 🔄 In Review
-
-| Project | Contribution |
-| ------- | ------------ |
-| [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb) | [Fix PDAL package lookup on Windows](https://github.com/AcademySoftwareFoundation/openvdb/pull/2351) |
-| [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby) | [Remove oj dependency to restore JRuby support](https://github.com/Shopify/shopify-api-ruby/pull/1462) · [Expose request ID after token refresh](https://github.com/Shopify/shopify-api-ruby/pull/1463) |
-| [Shopify/worldwide](https://github.com/Shopify/worldwide) | [Add translations for new Rails time zones](https://github.com/Shopify/worldwide/pull/604) · [Treat address replacement values as literal data](https://github.com/Shopify/worldwide/pull/605) |
-
----
-
 ## 🛠️ Core Stack
 
 | Area            | Tools                                                                 |
@@ -110,8 +132,19 @@ Contributing fixes and features to projects across graphics, developer tooling, 
 | **Systems**     | Linux · Multithreading · Distributed Systems · Networking · Databases |
 | **Performance** | Profiling · Optimization · Parallel Computing · Caching               |
 | **AI / ML**     | MLIR · CUDA · PyTorch · LLM APIs · Quantization                       |
-| **Software**    | React · FastAPI · REST APIs · PostgreSQL                              |
+| **Software**    | React · FastAPI · REST APIs · PostgreSQL · Ruby                       |
 | **Tools**       | Git · Azure · Jenkins · Jira                                          |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=najibna&show_icons=true&hide_border=true&theme=transparent&title_color=5E8E3E&icon_color=96BF48" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibna&layout=compact&hide_border=true&theme=transparent&title_color=5E8E3E" alt="Top languages"/>
+
+</div>
 
 ---
 
@@ -130,3 +163,5 @@ I enjoy building software where **performance, scalability, reliability, and cle
 [LinkedIn](https://www.linkedin.com/in/najib-n) · [GitHub](https://github.com/najibna) · [Website](https://najibnajib.com) · [Email](mailto:n.najib@live.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:96BF48,100:5E8E3E&height=100&section=footer" width="100%" alt=""/>
