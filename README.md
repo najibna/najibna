@@ -29,7 +29,7 @@
 
 </div>
 
-### 🟦 [Autodesk](https://www.autodesk.com) — Software Engineer
+### 🟦 [Autodesk](https://www.autodesk.com) | Software Engineer
 
 **`C++`** · **`Python`** · **`Systems`** · **`Performance`**
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 🛰️ [MDA Space](https://mda.space) — Software Engineer
+### 🛰️ [MDA Space](https://mda.space) | Software Engineer
 *Jan. 2026 – Apr. 2026* · **`Python`** · **`C++`** · **`pytest-bdd`** · **`Linux`** · **`GitLab`** · **`Jira`**
 
 📡 Worked on satellite software validation and automated testing.
